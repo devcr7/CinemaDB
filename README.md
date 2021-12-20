@@ -7,6 +7,7 @@ Retrofit has been used as Rest client which makes https request and help in conv
 Several Model/POJO classes have been created to for retrieving the API response concerned with search and film endpoints. The interface of the same has been created seperately.
 Retrofit object has been created in RequestManager class to deal with all call and get calls.
 Two seprate recycler views have been used one for each endpoints which deals with 2 different adapters.
+Postman has been used to test our API.
 
 Splash screen and icon image has been taken from pinterest.
 Below are the two screen recordings while the app is in use (Dark and light mode both).
